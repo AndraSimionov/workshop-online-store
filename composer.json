@@ -1,7 +1,7 @@
 {
   "require": {
     "php": "7.3",
-    "smarty/smarty": "3.1.16",
+    "smarty/smarty": "3.1.39",
     "guzzlehttp/guzzle": "~6.2"
   }
 }
